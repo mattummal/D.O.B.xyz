@@ -1,12 +1,14 @@
-# [transitivebullsh.it](https://transitivebullsh.it)
+# [mattumm.al](https://mattumm.al)
 
-> Personal portfolio for Travis Fischer.
+> Personal portfolio for Prabhjyoth Mattummal.
 
-[![Build Status](https://travis-ci.com/transitive-bullshit/transitivebullsh.it.svg?branch=master)](https://travis-ci.com/transitive-bullshit/transitivebullsh.it) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![Build Status](https://rab-ci.com/transitive-bullshit/mattumm.al.svg?branch=master)](https://rab-ci.com/transitive-bullshit/mattumm.al) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+
 
 ## Install
 
 ```bash
+nvm use 14
 yarn
 ```
 
@@ -28,4 +30,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## License
 
-MIT © [Travis Fischer](https://github.com/transitive-bullshit)
+MIT © [Prabhjyoth Mattummal](https://github.com/mattummal)

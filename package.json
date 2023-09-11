@@ -2,7 +2,7 @@
   "name": "transitivebullshit",
   "version": "0.0.0",
   "private": true,
-  "description": "Personal portfolio for Travis Fischer.",
+  "description": "Personal portfolio for Prabhjyoth Mattummal.",
   "license": "MIT",
   "engines": {
     "node": ">=8",
@@ -11,7 +11,7 @@
   "keywords": [
     "transitive",
     "bullshit",
-    "travis",
+    "rab",
     "fischer",
     "portfolio",
     "react",

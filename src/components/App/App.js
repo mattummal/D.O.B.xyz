@@ -31,7 +31,7 @@ export default class App extends Component {
       shuffle: false,
       loop: false,
       showCursor: false,
-      strings: ['Working on Saasify', 'Travis Fischer']
+      strings: ['Data Engineering', 'Prabhjyoth Mattummal']
     })
   }
 
@@ -55,7 +55,7 @@ export default class App extends Component {
         <FluidAnimation animationRef={this._animationRef} />
 
         <div className={styles.overlay}>
-          <h1 className={styles.title}>Transitive Bullshit</h1>
+          <h1 className={styles.title}>Prabhjyoth Mattummal</h1>
 
           <h3 className={styles.subtitle} ref={this._subtitleRef} />
         </div>
