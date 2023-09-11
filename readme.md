@@ -8,7 +8,7 @@
 ## Install
 
 ```bash
-nvm use 14
+nvm use 16
 npm install -g gh-pages --save-dev
 npm i
 ```

@@ -23,12 +23,11 @@
   ],
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "now-build": "yarn build",
-    "deploy": "now --prod",
-    "force-deploy": "yarn deploy && now rm --safe --yes transitive-bullshit"
+		"build": "react-scripts build",
+		"test": "react-scripts test",
+		"eject": "react-scripts eject",
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d build"
   },
   "dependencies": {
     "body-scroll-lock": "^2.6.1",
