@@ -31,7 +31,7 @@ export default class App extends Component {
       shuffle: false,
       loop: false,
       showCursor: false,
-      strings: ['Data Engineering', 'Prabhjyoth Mattummal']
+      strings: ['Data Engineering / Cloud Development / DevOps Engineering', 'Prabhjyoth Mattummal']
     })
   }
 
