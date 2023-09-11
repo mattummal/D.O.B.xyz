@@ -31,7 +31,7 @@ export default class App extends Component {
       shuffle: false,
       loop: false,
       showCursor: false,
-      strings: ['Data Engineering / Cloud Development / DevOps Engineering', 'Websites: mattummal.com | mattumm.al', 'Data Engineering / Cloud Development / DevOps Engineering' ]
+      strings: ['Data Engineering / Cloud Development / DevOps Engineering', 'Websites: mattummal.com | mattumm.al', 'Data Engineer' ]
     })
   }
 
