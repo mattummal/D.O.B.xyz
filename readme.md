@@ -9,19 +9,20 @@
 
 ```bash
 nvm use 14
-yarn
+npm install -g gh-pages --save-dev
+npm i
 ```
 
 ## Development
 
 ```bash
-yarn start
+npm run start
 ```
 
 ## Production
 
 ```bash
-yarn deploy
+npm run deploy
 ```
 
 ## Credits
