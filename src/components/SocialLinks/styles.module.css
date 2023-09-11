@@ -6,15 +6,14 @@
   text-align: center;
   color: #fff;
 }
-
 .action {
   position: relative;
-  border-radius: 50%;
-  border: 2px solid #fff;
+  border-radius: 0px; /* Adjust the border-radius as needed for slightly rounded corners */
+  border: 1px solid #fff;
   transition: all 300ms ease-out;
-  width: 3.5em;
-  height: 3.5em;
-  margin: 1em 1em 0 0;
+  width: 99px; /* Set the desired width for the rectangular box */
+  height: 69px; /* Set the desired height for the rectangular box */
+  margin: 0em 0em 0 0;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -23,6 +22,7 @@
   user-select: none;
   cursor: pointer;
 }
+
 
 .action:last-child {
   margin-right: 0;
